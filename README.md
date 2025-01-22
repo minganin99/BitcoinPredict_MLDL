@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/8d7528fe-effd-4eec-bf4d-35ace2bc1be7" alt="코인임티" width="50"> 비트코인 가격 추세 예측?
+# <img src="https://github.com/user-attachments/assets/8d7528fe-effd-4eec-bf4d-35ace2bc1be7" alt="코인임티" width="50"> 비트코인 가격 추세 예측
 1. [개요](#1-project-overview-프로젝트-개요)
 2. [팀원 소개](#2-team-members)
 3. [기술 스택](#3-technology-stack-기술-스택)
