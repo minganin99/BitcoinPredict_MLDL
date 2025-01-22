@@ -22,7 +22,7 @@
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/6b673df2-d21e-4762-aaed-688ae70d9556" alt="박훈석" width="150"> | <img src="https://github.com/user-attachments/assets/9a3b5276-200a-42ed-a9f7-5012c68bd04a" alt="정민관" width="150"> | <img src="https://github.com/user-attachments/assets/c547ab1e-164a-407b-a275-97e40947bde4" alt="신영섭" width="150"> | <img src="https://github.com/user-attachments/assets/7961490e-8726-49e5-8409-c2519060887b" alt="이현" width="150"> |
 | 팀장 | 팀원 | 팀원 | 팀원 |
-| [GitHub]() | [GitHub](https://github.com/minganin99) | [GitHub](https://github.com/yerin1028) | [GitHub](https://github.com/hyun9396) |
+|  | [GitHub](https://github.com/minganin99) | [GitHub](https://github.com/SeenYoungSeob) | [GitHub](https://github.com/hyun9396) |
 
 ### 2.2 Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
@@ -117,11 +117,13 @@ upbit에서 제공하는 비트코인에 관한 일별 데이터 수집
 - Bidirectional RNN
 
 ### 5.6 모델 평가 및 비교
-- 정확도
-- 정밀도
-- 재현율
-- F1-Score
-- 혼동행렬
+![image](https://github.com/user-attachments/assets/20a9a97c-65d6-4dbd-972d-b24181adfce3)
+
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/57004a5c-2884-40e4-a674-35b13e74e62b" />
+
+<br/>
+<br/>
 
 # 6. Conclusion (결론)
 - 머신러닝 모델은 성능 정확도가 0.5~0.6사이에 존재
@@ -137,7 +139,10 @@ upbit에서 제공하는 비트코인에 관한 일별 데이터 수집
 - 2025년 1월 1일부터 실제 예측을 적용
 - 75%의 정확도를 보임
 - 홀드전략으로 투자를 했다면 원금의 4% 수익률
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/8c2e413c-76c7-4aff-844c-393fe9857054" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8c2e413c-76c7-4aff-844c-393fe9857054" />
+
+<br/>
+<br/>
 
 # 7. 부록
 - CUDA를 사용하여 GPU와 연결하여 딥러닝 학습
