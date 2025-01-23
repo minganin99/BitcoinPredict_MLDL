@@ -147,6 +147,7 @@ upbit에서 제공하는 비트코인에 관한 일별 데이터 수집
 # 7. 부록
 - CUDA를 사용하여 GPU와 연결하여 딥러닝 학습
 - 참고 논문: 서유범, 황창하, Predicting Bitcoin Market Trend with Deep Learning Models, Quantitave Bio-Science, 2018.05.25
+- 발표자료는 Document 폴더에 있습니다
 
 <br/>
 <br/>
